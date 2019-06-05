@@ -17,9 +17,9 @@ Files include:
 
 Variables include:
 - CountyName: name of PA county
-- NO2016: polling location is not ADA accessible in 2016
+- NO2016: polling location was not ADA accessible in 2016
 - YES2016: polling location was ADA accesssible in 2016
-- NO2018: polling location is not ADA accessible in 2018
+- NO2018: polling location was not ADA accessible in 2018
 - YES2018: polling location was ADA accesssible in 2018
 - total2016: total number of polling places in 2016
 - total2018: total number of polling places in 2018
